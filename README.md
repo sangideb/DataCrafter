@@ -1,6 +1,6 @@
 # Data Scientist and Information System Manager
 
-#### Technical Skills: Python, SQL, MATLAB
+#### Technical Skills: Python, R, SQL, MATLAB, HTML, CSS, PowerShell
 
 ## Education
 - PGDS, Data Science || IIIT Bangalore (_Ongoing, Gratuate Feb 2024_)
