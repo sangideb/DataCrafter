@@ -3,9 +3,9 @@
 #### Technical Skills: Python, R, SQL, MATLAB, HTML, CSS, PowerShell
 
 ## Education
-- PGDS, Data Science || IIIT Bangalore (_Ongoing, Gratuate Feb 2024_)
-- MBA, Information Systems | Sikkim Manipal University (_May 2020_)								       		
-- BSc, Physics	|| Gauhati University (_June 2016_)	 		
+- PGDS, Data Science | IIIT Bangalore (_Ongoing, Gratuate Feb 2024_)
+- MBA, Info Systems | Sikkim Manipal University (_May 2020_)								       		
+- BSc, Physics	| Gauhati University (_June 2016_)	 		
 
 
 ## Work Experience
