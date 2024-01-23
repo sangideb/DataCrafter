@@ -9,6 +9,7 @@
 
 ## Work Experience
 **Information System Manager @ Creart Solutions (_September 2020 - Present_)**
+
 I design and implement policies for the smooth running of the information systems. I work closely
 with the IT team and developers to design and execute smooth-running systems.
 There are about 12 person presently working under me.
@@ -18,6 +19,7 @@ There are about 12 person presently working under me.
 - Making forecasts and development
 
 **Information system Analyst @ Creart Solutions (_January 2018 - August 2020_)**
+
 I improved and maintained computer systems. Reported to the manager about my findings and
 proposed strategies that can benefit the company.
 - I examined and analyzed the IT systems and proposed improvements.
@@ -25,6 +27,7 @@ proposed strategies that can benefit the company.
 - Researched business issues and goals to offer appropriate solutions
 
 **Project Associate @ Creart Solutions (_August 2016 - December 2017_)**
+
 I joined as a fresher and learned everything in the process. Started as a project associate and soon got
 promoted to team leader, I handled the web development team consisting of 7 members.
 - I designed UI and created websites.
@@ -32,6 +35,7 @@ promoted to team leader, I handled the web development team consisting of 7 memb
 - Ensuring secure Ads and Promotion.
 
 **Office Executive @ B.K.Electricals (_April 2013 - May 2016_)**
+
 Managed the entire accounting cycle including gathering information, preparing documents, finalizing
 reports and closing books.
 - Completed daily accounting tasks including tracking funds, preparing deposits and reconciling accounts.
