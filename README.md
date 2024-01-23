@@ -3,9 +3,10 @@
 #### Technical Skills: Python, SQL, MATLAB
 
 ## Education
-- PGDS., Data Science | IIIT Bangalore (_Ongoing, Gratuate Feb 2024_)
-- MBA., Information Systems | Sikkim manipal University (_May 2020_)								       		
-- BSc., Physics	| Gauhati University (_June 2016_)	 		
+- PGDS, Data Science | IIIT Bangalore (_Ongoing, Gratuate Feb 2024_)
+- MBA Information Systems | SMU (_May 2020_)								       		
+- BSc, Physics	| Gauhati University (_June 2016_)	 		
+
 
 ## Work Experience
 **Information System Manager @ Creart Solutions (_September 2020 - Present_)**
